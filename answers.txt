@@ -1,0 +1,25 @@
+1) What were the inputs you gave the simulation? 
+
+Virus name, reproductive rate, mortality rate, Population size, 
+percent vaccinated
+
+Answer: "COVID", 0.25, 0.70, 250, 0.50 with 1 infected person to start
+
+
+2) What percentage of the population became infected at some point before the virus
+burned out?
+
+Answer: 407 instances of infection resulted from 12,759 interactions, which means that 3.2% of interactions led to infection.
+If we started with 250 people and 50% of them were vaccinated, that only left the potential for 125 to get infected.
+Of those 125, 90 died, which is right around the mortality rate of COVID. 
+
+3) What percentage of the population died from the virus?
+
+Answer: 90 out of 250 died, which is 36%
+
+
+4) Out of all interactions sick individuals had during the entire simulation, how many
+total interactions did we see where a vaccination saved a person from potentially
+becoming infected?
+
+Answer: 9075
